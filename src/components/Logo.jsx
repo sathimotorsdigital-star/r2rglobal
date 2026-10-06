@@ -21,7 +21,7 @@ export default function Logo({ className = '' }) {
           R2R <span className="text-r2r-navy">GLOBAL</span>
         </span>
         <span className="mt-1 text-[10px] font-medium uppercase tracking-[0.18em] text-r2r-muted">
-          PCB Design Company
+          Circuit Design Company
         </span>
       </span>
     </span>

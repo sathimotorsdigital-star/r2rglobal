@@ -1,29 +1,48 @@
 export const SITE = {
   name: 'R2R Global',
-  tagline: 'PCB Design Company',
+  tagline: 'Circuit Design Company',
   footerBlurb:
     'Electronic Circuit Design, PCB Development & Power Electronics Solutions.',
+
   contacts: [
-    { name: 'Rahul Verma', display: '84760 24374', tel: '+918476024374', primary: true },
-    { name: 'HRK', display: '98912 40633', tel: '+919891240633', primary: false },
+    {
+      name: 'Rahul Verma',
+      display: '84760 24374',
+      tel: '+918476024374',
+      primary: false,
+    },
+    {
+      name: 'HRK',
+      display: '98912 40633',
+      tel: '+919891240633',
+      primary: true,
+    },
   ],
-  whatsappNumber: '918476024374',
+
+  whatsappNumber: '919891240633',
+
   whatsappMessage:
     'Hello R2R Global,\nI would like to discuss a PCB / circuit development requirement.',
+
   addressLines: [
     'G/Floor, Plot No. A-83, Store No. 1',
     'Shalimar Garden Extn-II',
     'Ghaziabad, Uttar Pradesh, India',
   ],
+
   mapQuery:
     'G/Floor, Plot No. A-83, Store No. 1, Shalimar Garden Extn-II, Ghaziabad, Uttar Pradesh, India',
 };
 
-export const PRIMARY = SITE.contacts[0];
+export const PRIMARY =
+  SITE.contacts.find((contact) => contact.primary) || SITE.contacts[0];
+
 export const CALL_HREF = `tel:${PRIMARY.tel}`;
+
 export const WHATSAPP_HREF = `https://wa.me/${SITE.whatsappNumber}?text=${encodeURIComponent(
   SITE.whatsappMessage
 )}`;
+
 export const MAP_SRC = `https://www.google.com/maps?q=${encodeURIComponent(
   SITE.mapQuery
 )}&output=embed`;

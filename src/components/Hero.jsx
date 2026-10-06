@@ -20,7 +20,7 @@ export default function Hero() {
             className="mb-4 inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-r2r-tealdark"
           >
             <span className="h-px w-6 bg-r2r-teal" aria-hidden="true" />
-            R2R Global · PCB Design Company
+            R2R Global · Circuit Design Company
           </motion.p>
           <motion.h1 id="hero-heading" {...fade(0.05)}>
             Electronic Circuit Design
