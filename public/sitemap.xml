@@ -1,8 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://www.r2rglobal.in/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/about</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/circuit-design</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/pcb-design</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/led-pcb</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/reflector-circuit</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/running-indicator-circuit</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/matrix-led-circuit</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/control-gear-circuit</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/pid-controller</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/metering-circuits</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/automation</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/custom-circuit-development</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/solutions</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/industries</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/contact</loc>
+  </url>
+
 </urlset>
