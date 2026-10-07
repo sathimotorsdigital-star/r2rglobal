@@ -30,7 +30,7 @@ function MoreLink({ to, children }) {
 export default function Home() {
   return (
     <>
-      <Seo title="R2R Global | PCB Design & Electronic Circuit Development" />
+<Seo title="R2R Global | PCB Design, Power Electronics & EV Charger Solutions" />
       <Hero />
 
       <section aria-label="Core capabilities" className="section-y">
