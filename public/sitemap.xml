@@ -14,6 +14,24 @@
   </url>
 
   <url>
+    <loc>https://www.r2rglobal.in/solutions</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/industries</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/contact</loc>
+  </url>
+
+  <!-- Services -->
+
+  <url>
     <loc>https://www.r2rglobal.in/services/circuit-design</loc>
   </url>
 
@@ -57,20 +75,34 @@
     <loc>https://www.r2rglobal.in/services/custom-circuit-development</loc>
   </url>
 
+  <!-- Power Electronics Solutions -->
+
   <url>
-    <loc>https://www.r2rglobal.in/solutions</loc>
+    <loc>https://www.r2rglobal.in/services/smps-charger-circuit</loc>
   </url>
 
   <url>
-    <loc>https://www.r2rglobal.in/industries</loc>
+    <loc>https://www.r2rglobal.in/services/ev-charger-circuit</loc>
   </url>
 
   <url>
-    <loc>https://www.r2rglobal.in/projects</loc>
+    <loc>https://www.r2rglobal.in/services/solar-driver</loc>
   </url>
 
   <url>
-    <loc>https://www.r2rglobal.in/contact</loc>
+    <loc>https://www.r2rglobal.in/services/solar-mppt</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/pwm-controller</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/power-supply-design</loc>
+  </url>
+
+  <url>
+    <loc>https://www.r2rglobal.in/services/custom-power-electronics</loc>
   </url>
 
 </urlset>
